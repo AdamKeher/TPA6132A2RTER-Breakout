@@ -4,7 +4,7 @@ Headphone Amplifier breakout board using TPA6132A2RTER.
 ## Jack Sense
 The board contains an audio jack sensing circuit with inverted output. This can be used to drive something like an enable / mute pin on a speaker amplifier, effectively muting output when a plug is inserted in the jack.
 
-## Jack Sense
+## Amplifier Gain
 Pinheaders are provided for user configurable gain control.
 
 ## Board Image
